@@ -8,6 +8,8 @@
 (__(__)___(__)__)
 ```
 
+*[english version below](#hey-im-maisa)*
+
 ### hey, eu sou a maisa
 
 desenvolvedora full stack que gosta de transformar interesses pessoais em projetos reais.
@@ -49,5 +51,52 @@ infra      Docker · RabbitMQ · Kafka · AWS · GitHub Actions
 ---
 
 **onde me encontrar**
+
+[linkedin](https://www.linkedin.com/in/maisa-gomes/) · [email](mailto:maisakichlergms@gmail.com)
+
+---
+---
+
+### hey, i'm maisa
+
+full stack developer who likes turning personal interests into real projects.
+i built a [fanfic translator](https://github.com/mais4g/ao3-tradutor) because i wanted to test translation API integrations and make content more accessible — it ended up becoming a full application with automatic translation, EPUB generation and a personal library.
+
+i really enjoy working with **C#/.NET** and **TypeScript/React**, but on a daily basis i work with a bit of everything.
+
+---
+
+**working with**
+
+```
+backend    .NET 8 · C# · Entity Framework · Spring Boot · Java · Node.js
+frontend   React · Next.js · Angular · TypeScript · Tailwind
+mobile     Flutter · Dart · MobX
+database   PostgreSQL · MongoDB · MySQL
+infra      Docker · RabbitMQ · Kafka · AWS · GitHub Actions
+```
+
+---
+
+**some projects**
+
+| project | about | stack |
+|---------|-------|-------|
+| [ao3-tradutor](https://github.com/mais4g/ao3-tradutor) | automatic fanfic translation EN→PT-BR with EPUB generation | Next.js, React, Supabase, DeepL |
+| [ballit](https://github.com/mais4g/ballit) | Dell technical challenge — interactive ball game | JavaScript |
+| [drone-challenge](https://github.com/mais4g/drone-challenge) | dti digital technical challenge — drone navigation | JavaScript |
+| [weather-app](https://github.com/mais4g/weather-app) | weather forecast app with API consumption | JavaScript |
+
+> new projects coming soon — i'll probably mix them with some hobby again.
+>
+> ```
+>  /\___/\  ~ meanwhile, find me building something
+> ( o   o )   or reading fanfic
+>  > ^ <
+> ```
+
+---
+
+**where to find me**
 
 [linkedin](https://www.linkedin.com/in/maisa-gomes/) · [email](mailto:maisakichlergms@gmail.com)
