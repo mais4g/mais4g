@@ -41,14 +41,13 @@ infra      Docker · RabbitMQ · Kafka · AWS · GitHub Actions
 > novos projetos chegando em breve — provavelmente vou misturar com algum hobby de novo.
 >
 > ```
->  /\___/\  ~ enquanto isso, me encontra debugando algo
+>  /\___/\  ~ enquanto isso, me encontra criando algo
 > ( o   o )   ou lendo fanfic
 >  > ^ <
 > ```
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mais4g&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mais4g&layout=compact&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
-</p>
+**onde me encontrar**
+
+[linkedin](https://www.linkedin.com/in/maisa-gomes/) · [email](mailto:maisakichlergms@gmail.com)
